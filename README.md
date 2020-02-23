@@ -17,7 +17,7 @@ Important thing to note: to build this I followed the video tutorial by [Dev Ed]
 4. In general, the code is modern and based on the things that we discussed in class, and it was really useful to me to get the sence of how to implement new concepts all at once, starting from HTML DOM getElementById() Method to fetch().
 5. The API used in a tutorial is a very simple one, which again, is a great thing to get results fast.
 6. The tutorial also introduces Skycons JS library, which is simply fun, nice and easy to use. 
-7. It introduces the work with API "proxy" (in this case [heroku's cross-origin API] (https://cors-anywhere.herokuapp.com/)).
+7. It introduces the work with API "proxy" (in this case [heroku's cross-origin API](https://cors-anywhere.herokuapp.com/)).
 
 # Notes & Process
 
